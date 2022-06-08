@@ -21,7 +21,7 @@ Assignment for developing a simple DNS client.
 ### 動作例
 
 ```
-prompt$ python3 simple_dns.py 8.8.8.8 www.ishilab.net
+prompt$ python3 dns_client.py 8.8.8.8 www.ishilab.net
 # Hex dump
 2d 01 81 80 00 01 00 02   00 00 00 00 03 77 77 77   -____________www
 07 69 73 68 69 6c 61 62   03 6e 65 74 00 00 01 00   _ishilab_net____
